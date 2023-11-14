@@ -1,0 +1,7 @@
+export const POKEMON_BASE_URL = "https://pokeapi.co/api/v2"
+export const POKEMON_REGISTER = "http://localhost:8000/register"
+export const POKEMON_LOGIN = "http://localhost:8000/login"
+export const POKEMON_VOTE = "http://localhost:8000/pokemon/vote"
+export const POKEMON_SCORE = "http://localhost:8000/pokemon/score/all"
+export const POKEMON_VOTE_SCORE = "http://localhost:8000/pokemon/getVoteAll"
+export const POKEMON_DELETE = "http://localhost:8000/pokemon/deleteVote"
